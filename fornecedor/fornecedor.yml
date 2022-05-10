@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: postgres
-    username: postgres
+    password: postgre
+    username: postgre
     url: jdbc:postgresql://localhost:5432/fornecedor
   jpa:
     hibernate:
